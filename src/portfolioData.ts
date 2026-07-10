@@ -106,7 +106,7 @@ export const portfolioData: PortfolioData = {
 
 	// Block 4: Contact & Social links
 	contact: {
-		email: "FabioMijango@gmail.com",
+		email: "fabiomijango@gmail.com",
 		linkedin: "linkedin.com/in/fabiomijango0810",
 		github: "github.com/fabiomijango",
 	},
