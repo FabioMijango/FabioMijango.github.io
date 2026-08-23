@@ -94,6 +94,13 @@ export const portfolioData: PortfolioData = {
 			role: "Core Developer",
 			status: "In Development",
 		},
+        {
+            name: "Rogue",
+            technologies: "C++, SDL3, SGEL, CMake",
+            description: "Rogue 1980 adaptation for C++ with SGEL implementation",
+            repo: "github.com/fabiomijango/Rogue",
+            status: "Finished"
+        }
 	],
 
 	// Block 3: Trajectory (Experience, Education, Certifications)
